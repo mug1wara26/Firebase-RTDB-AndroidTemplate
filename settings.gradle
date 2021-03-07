@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseRTDB-AndroidTemplate"
+include ':app'
